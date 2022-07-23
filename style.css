@@ -1,0 +1,50 @@
+#submit_button
+{
+	margin-top: 20px; 
+	margin-bottom: 20px; 
+}
+#sort_button
+{
+	display: none;
+	margin-top: 20px; 
+	margin-bottom: 20px; 
+}
+
+input
+{
+	margin: 10px;
+}
+.display_name_with_commas
+{
+	border: 1px solid green;
+    padding: 10px;
+	background-color: greenyellow;
+	border-radius: 10px;
+    width: 50%;
+}
+
+#display_name_without_commas
+{
+	border: 1px solid red;
+    padding: 10px;
+    background-color: lightcoral;
+	border-radius: 10px;
+    width: 50%;
+}
+.change{
+	background-image: url("vecteezy_vector-abstract-seamless-pattern-of-many-hearts-on-blue_5384360.jpg");
+	background-size: cover;
+	background-position: center;
+}
+#rows{
+	padding-top: 100px;
+}
+#sorted{
+	padding-top: 50px;
+}
+#submit_button{
+	background-color: rgb(191, 205, 0);	
+}
+#srch{
+	background-color: orange;
+}
